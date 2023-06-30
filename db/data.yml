@@ -1,0 +1,64 @@
+
+---
+ar_internal_metadata:
+  columns:
+  - key
+  - value
+  - created_at
+  - updated_at
+  records: 
+  - - environment
+    - development
+    - '2023-06-29 22:42:09.529789'
+    - '2023-06-29 22:42:09.529789'
+
+---
+blogs:
+  columns:
+  - id
+  - title
+  - content
+  - created_at
+  - updated_at
+  records: 
+  - - 2
+    - Test Blog 2
+    - 7 Alternatives to Making Small Talk with the Coworker in the Urinal Next to
+      You When You’re Just Trying to Pee and GTFO
+    - '2023-06-29 22:42:15.491710'
+    - '2023-06-29 22:42:15.491710'
+  - - 3
+    - Test Blog 3
+    - 12 Words You Can Insert into Any Sentence to Make it Sound Like You Know What
+      You’re Talking About; The First One is “Utilize.”
+    - '2023-06-29 22:42:15.498677'
+    - '2023-06-29 22:42:15.498677'
+  - - 4
+    - Test Blog 4
+    - 17 Side Hustle Ideas for When You Want to Work So Much you Don’t Even Recognize
+      Your Kids’ Faces When You Get Home at Night
+    - '2023-06-29 22:42:15.503752'
+    - '2023-06-29 22:42:15.503752'
+  - - 5
+    - Test Blog 5
+    - I Read One Gary Vaynerchuk Article on LinkedIn and I Now I Sell 12-Year-Old
+      Kids Fake Yeezys to Pay My Rent, Ask Me Anything
+    - '2023-06-29 22:42:15.510976'
+    - '2023-06-29 22:42:15.510976'
+  - - 7
+    - Test Blog 7
+    - How to Get Up the Courage to Ask for That Raise You and Pretty Much All of Your
+      Coworkers Know You Don’t Deserve
+    - '2023-06-29 22:42:15.522987'
+    - '2023-06-29 22:42:15.522987'
+  - - 8
+    - Test Blog 8
+    - 5 Swear Words That Can Really Make an Impression in a Job Interview if You Time
+      it Just Right
+    - '2023-06-29 22:42:15.528148'
+    - '2023-06-29 22:42:15.528148'
+  - - 10
+    - Test Blog 9
+    - 'The Rise of the Wendy’s 4 For $4 in a Gig Economy: Are Bargains the New Excess?'
+    - '2023-06-29 22:44:06.567848'
+    - '2023-06-29 22:44:06.567848'
