@@ -44,10 +44,10 @@ test:
   password: <%= ENV["RAILWAYAPP_DATABASE_PASSWORD"] %>
 
 production:
-  url: <%= ENV["DATABASE_URL"] %>
-  database: railwayapp_production
-  username: railwayapp
-  password: <%= ENV["RAILWAYAPP_DATABASE_PASSWORD"] %>
+  url: <%= ENV["MYSQL_URL"] %>
+  database: railway
+  username: root
+  password: <%= ENV["MYSQLPASSWORD"] %>
 
 
 
