@@ -38,10 +38,10 @@ development:
 # re-generated from your development database when you run "rake".
 # Do not set this db to the same as development or production.
 test:
-  url: <%= ENV["DATABASE_URL"] %>
-  database: railwayapp_production
-  username: railwayapp
-  password: <%= ENV["RAILWAYAPP_DATABASE_PASSWORD"] %>
+   url: <%= ENV["MYSQL_URL"] %>
+  database: railway
+  username: root
+  password: <%= ENV["MYSQLPASSWORD"] %>
 
 production:
   url: <%= ENV["MYSQL_URL"] %>
